@@ -159,6 +159,7 @@ ul {
 }
 
 /* ---------Hero-------- */
+
 .hero-wrap {
   background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/hero-bg.jpg);
   background-repeat: no-repeat;
@@ -168,9 +169,8 @@ ul {
   margin: 0 auto;
 
 }
-
 .hero {
-  background-color: var(--background-dark-color);
+  /* background-color: var(--background-dark-color); */
   text-align: center;
   padding-top: 192px;
   padding-bottom: 187px;
